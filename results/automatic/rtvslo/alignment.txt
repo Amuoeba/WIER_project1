@@ -1,0 +1,162 @@
+Site1: Avtomobilnost
+Site2: Testi
+--------------------------------------------------
+Site1: Avtomobilnost
+Site2: Testi
+--------------------------------------------------
+Site1: Volvo XC 40 D4 AWD momentum: suvereno med najboljše v razredu
+Site2: Audi A6 50 TDI quattro: nemir v premijskem razredu
+--------------------------------------------------
+Site1: Test novega modela
+Site2: Test nove generacije
+--------------------------------------------------
+Site1: XC 40 je najmanjši Volvov SUV, ki se oblikovno skoraj v celotni naslanja na oba večja predhodnika. Že samo s tem so mu vrata do denarnic tistih kupcev, ki iščejo izstopajočo, a hkrati visoko kultivirano in prečiščeno dizajnersko govorico, na pol odprta.
+Site2: To je novi audi A6. V razred najdražjih in najbolj premijskih žrebcev je vnesel nemir, še preden je sploh zapeljal na parkirni prostor, rezerviran za izvršnega direktorja. 
+--------------------------------------------------
+Site1: 25. januar 2019 ob 15:23
+Site2: 28. december 2018 ob 08:51
+--------------------------------------------------
+Site1: XC40 se pohvali z robustno gradnjo in švedskim dizajnom
+Site2: Zaradi videza se mu na avtocesti spoštljivo umikajo
+--------------------------------------------------
+Site1: Kabina je prostorna in kakovostno izdelana
+Site2: Cesto in promet skenira s kopico radarjev, kamer in tipal
+--------------------------------------------------
+Site1: Dizel z vrha ponudbe je zelo zmogljiv, a za mestno uporabo prerobusten
+Site2: 50 TDI označuje trilitrski turbodizel, podkrepljen z elektromotorjem
+--------------------------------------------------
+Site1: Še posebej hvalimo število, iznajdljivost in velikost različnih odlagalnih prostorov ter široke, čvrste in zelo udobne sedeže. Intuitivno in enostavno logično je upravljanje z velikim vmesnikom, ki z večfunkcijskim zaslonom na dotik kraljuje na z roko lahko dostopnem mestu na sredinski armaturi. Razočaranj ne bo niti v velikosti in uporabnosti prtljažnega prostora, ki s 460 litri prostornine sicer ni med večjimi v razredu, a se v uporabniškem smislu odkupi z dobro urejenostjo ter domiselnimi rešitvami pregrajevanja.
+Site2: Samo poglejte njegovo masko – to ogromno satovje z radarji na takem položaju, da se ti na avtocesti tudi pri 120 km/h vsi spoštljivo umikajo, saj so prepričani, da gre za Pahorjev ali Šarčev avto. Seveda, novi A6 lahko cesto in promet skenira s kar petimi radarji, petimi kamerami, infrardečo kamero za nočni vid, dvanajstimi ultrazvočnimi senzorji in laserskim čitalnikom – lidarjem. V glavnem vojaška tehnologija v službi varnosti za fante, ki smo radi gledali Top Gun, Bonda in druge možakarja s finimi igračami.
+--------------------------------------------------
+Site1: XC 40 je od tal odmaknjen konkretnih 21 cm, a sta vzmetenje in krmilni mehanizem tako nastavljena, da ponuja tudi v hitro odpeljanih ovinkih zelo dolgo nevtralno in predvidljivo lego. V premeru preskušanega modela, ki je imel v paketu R design vzmetenje še nekoliko bolj trdo, se je to samo še bolj potrdilo, a je v tem primeru treba računati na manj udobno vožnjo čez različne asfaltne grbine. Podoben razmislek velja opraviti tudi pri izbiri motorja.
+Site2: Če vam pogled na Audijev spisek dodatne opreme ne odvzame volje do življenja, potem vsekakor toplo priporočamo nakup zračnega vzmetenja, saj dobi z njim A6 več različnih in vozniško zelo uporabnih karakterjev.
+--------------------------------------------------
+Site1: Preskušani 2-litrski dizel s 190 KM predstavlja vrh ponudbe, ki z močjo, udobjem in tudi povprečno porabo navduši predvsem pri avtocestnih dolgoprogaških izzivih, v počasni mestni vožnji ter pri pogostih postankih in speljevanjih pa deluje preveč robusten.
+Site2: Enako velja za seksi luči z inteligentno matrično osvetlitvijo, pa za športno podvozje in vsekakor za štirikolesno krmiljenje. S tem postane A6 med ovinki v občutku na volanu še veliko krajši in bolj agilen. Vse našteto smo preskušali v družbi agregata 50 TDI, ki je v resnici klasični trilitrski dizel, podkrepljen z elektromotorjem. Ja, ta audi je mehki hibrid z izjemnim navorom in dovolj moči kadar koli in kjer koli. Si pa mislimo, da bo največji del trga zadovoljil že učinkovit dvolitrski mehki hibrid z močjo 150 kilovatov.
+--------------------------------------------------
+Site1:  Foto: David Šavli
+Site2: MMC RTV SLO 
+--------------------------------------------------
+Site1:  Foto: David Šavli
+Site2: MMC RTV SLO 
+--------------------------------------------------
+Site1:  Foto: David Šavli
+Site2: MMC RTV SLO 
+--------------------------------------------------
+Site1:  Foto: David Šavli
+Site2: MMC RTV SLO 
+--------------------------------------------------
+Site1:  Foto: David Šavli
+Site2: MMC RTV SLO 
+--------------------------------------------------
+Site1:  Foto: David Šavli
+Site2: V notranjosti kraljujejo zasloni, prek katerih je mogoče upravljati praktično vse funkcije avtomobila. Foto: David Šavli
+--------------------------------------------------
+Site1:  Foto: David Šavli
+Site2: MMC RTV SLO 
+--------------------------------------------------
+Site1:  Foto: David Šavli
+Site2: MMC RTV SLO 
+--------------------------------------------------
+Site1:  Foto: David Šavli
+Site2: MMC RTV SLO 
+--------------------------------------------------
+Site1:  Foto: David Šavli
+Site2: MMC RTV SLO 
+--------------------------------------------------
+Site1:  Foto: David Šavli
+Site2: MMC RTV SLO 
+--------------------------------------------------
+Site1:  Foto: David Šavli
+Site2: Med doplačili priporočamo zračno vzmetenje in štirikolesno krmiljenje. Foto: David Šavli
+--------------------------------------------------
+Site1:  Foto: David Šavli
+Site2: MMC RTV SLO 
+--------------------------------------------------
+Site1:  Foto: David Šavli
+Site2: MMC RTV SLO 
+--------------------------------------------------
+Site1:  Foto: David Šavli
+Site2: MMC RTV SLO 
+--------------------------------------------------
+Site1:  Foto: David Šavli
+Site2: MMC RTV SLO 
+--------------------------------------------------
+Site1:  Foto: David Šavli
+Site2: MMC RTV SLO 
+--------------------------------------------------
+Site1:  Foto: David Šavli
+Site2: MMC RTV SLO 
+--------------------------------------------------
+Site1:  Foto: David Šavli
+Site2: MMC RTV SLO 
+--------------------------------------------------
+Site1:  Foto: David Šavli
+Site2: MMC RTV SLO 
+--------------------------------------------------
+Site1:  Foto: David Šavli
+Site2: MMC RTV SLO 
+--------------------------------------------------
+Site1:  Foto: David Šavli
+Site2: MMC RTV SLO 
+--------------------------------------------------
+Site1: LJFW: "Šotor bi napolnili, pa če bi bil še 20 metrov daljši"
+Site2: Ford kuga je z zamenjavo generacije postala tudi priključni hibrid
+--------------------------------------------------
+Site1: Foto: Noč v Louvru - aperitiv pri Moni Lisi, večerja pri Miloški Veneri 
+Site2: Ženske so poškodbam v prometnih nesrečah izpostavljene bolj kot moški
+--------------------------------------------------
+Site1: Ford kuga je z zamenjavo generacije postala tudi priključni hibrid
+Site2: Pripravite se na ofenzivo priključnih hibridov
+--------------------------------------------------
+Site1: Čokoladno-malinova zebra torta
+Site2: Bentley se je ob stoletnici spomnil blowerja, enega najbolj ikonskih avtomobilov iz dirkaške preteklosti
+--------------------------------------------------
+Site1: LJFW: Prvi večer je minil v znamenju izbora Fashion Scout SEE 
+Site2: Rekorderska steza na slani ravnici Bonneville potrebuje rešitev
+--------------------------------------------------
+Site1: Test
+Site2: liumuzina
+--------------------------------------------------
+Site1: volvo
+Site2: test
+--------------------------------------------------
+Site1: XC40
+Site2: TDI
+--------------------------------------------------
+Site1: Ženske so poškodbam v prometnih nesrečah izpostavljene bolj kot moški
+Site2: Volvo XC 40 D4 AWD momentum: suvereno med najboljše v razredu
+--------------------------------------------------
+Site1: Razvoj avtomobilske varnosti
+Site2: Test novega modela
+--------------------------------------------------
+Site1: Avtomobilnost
+Site2: Testi
+--------------------------------------------------
+Site1: Pripravite se na ofenzivo priključnih hibridov
+Site2: Kia ceed 1.4 turbo LX edition: vozi z najboljšimi
+--------------------------------------------------
+Site1: Ekipa Avtomobilnosti na avtomobilskem salonu v Ženevi
+Site2: Test nove generacije
+--------------------------------------------------
+Site1: Avtomobilnost
+Site2: Testi
+--------------------------------------------------
+Site1: Bentley se je ob stoletnici spomnil blowerja, enega najbolj ikonskih avtomobilov iz dirkaške preteklosti
+Site2: Mercedes-Benz CLS: Tisti, ki je svet obrnil na glavo
+--------------------------------------------------
+Site1: Obuditev legende
+Site2: Test nove generacije
+--------------------------------------------------
+Site1: Avtomobilnost
+Site2: Testi
+--------------------------------------------------
+Site1: Rekorderska steza na slani ravnici Bonneville potrebuje rešitev
+Site2: Maserati levante diesel: šarmer na velikih kolesih
+--------------------------------------------------
+Site1: Ogrožena naravna znamenitost
+Site2: Preizkus novega modela
+--------------------------------------------------
+Site1: (7)
+Site2: (13)
+--------------------------------------------------

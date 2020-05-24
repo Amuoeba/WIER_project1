@@ -1,3 +1,5 @@
 browser_drivers/
 .idea/
 __pycache__/
+site_data/
+index_database2.db
